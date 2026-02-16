@@ -1,0 +1,146 @@
+📈 Key Insights
+1️⃣ Ride Demand Analysis
+
+Daily ride volume shows fluctuations based on weekdays vs weekends.
+
+Peak booking hours typically occur during morning commute (8–10 AM) and evening rush (5–9 PM).
+
+Weekend demand shows higher long-distance rides.
+
+Certain pickup locations consistently generate higher ride volumes.
+
+Business Insight:
+Helps optimize driver allocation during peak hours.
+
+2️⃣ Revenue Performance Analysis
+
+Total revenue indicates overall platform performance.
+
+Premium vehicle types contribute higher revenue per ride.
+
+Short-distance rides contribute high volume but lower average revenue.
+
+Surge hours significantly impact revenue spikes.
+
+Business Insight:
+Supports surge pricing strategy optimization.
+
+3️⃣ Vehicle Type Performance
+
+Economy vehicles generate highest booking volume.
+
+Premium vehicles generate highest revenue per ride.
+
+Auto and bike rides dominate short-distance urban travel.
+
+Some vehicle types have higher cancellation rates.
+
+Business Insight:
+Improves fleet allocation strategy.
+
+4️⃣ Cancellation Analysis
+
+Customer cancellations often occur due to:
+
+High waiting time
+
+Driver unavailability
+
+Surge pricing
+
+Driver cancellations may indicate:
+
+Low fare acceptance
+
+Distance mismatch
+
+Certain pickup zones show higher cancellation frequency.
+
+Business Insight:
+Reducing cancellations improves customer retention and revenue stability.
+
+5️⃣ Payment Method Trends
+
+Digital payments dominate over cash transactions.
+
+Wallet/UPI transactions show higher ride completion rates.
+
+Cash payments show slightly higher cancellation percentage.
+
+Business Insight:
+Encourages digital payment incentives.
+
+6️⃣ Distance & Fare Analysis
+
+Fare strongly correlates with ride distance.
+
+Long-distance rides contribute disproportionately to total revenue.
+
+Average fare per kilometer differs by vehicle type.
+
+Business Insight:
+Helps in fare structure optimization.
+
+🧮 Advanced SQL Analysis Performed
+
+Aggregations (SUM, COUNT, AVG)
+
+GROUP BY & HAVING
+
+Window Functions (RANK, DENSE_RANK)
+
+CTE (Common Table Expressions)
+
+Revenue Segmentation
+
+Cancellation Rate Calculation
+
+📊 Key KPIs
+KPI	Business Meaning
+Total Rides	Platform demand
+Total Revenue	Financial performance
+Avg Fare per Ride	Pricing efficiency
+Cancellation Rate	Operational health
+Revenue by Vehicle Type	Fleet performance
+Peak Booking Hour	Demand pattern
+💼 Recruiter-Focused Highlights
+
+✔ Real-world ride-hailing business case
+✔ Data sourced from Kaggle
+✔ SQL-based end-to-end analysis
+✔ Business KPI generation
+✔ Revenue & operational insights
+✔ Clean, structured analytical approach
+
+🚀 Conclusion
+
+This analysis demonstrates how structured SQL queries can transform raw ride data into actionable business intelligence.
+
+Key business benefits include:
+
+Better driver allocation
+
+Reduced cancellation rate
+
+Improved surge pricing strategy
+
+Optimized fleet management
+
+Revenue growth opportunities
+
+🔮 Future Enhancements
+
+Power BI Dashboard
+
+Predictive demand forecasting
+
+Dynamic surge pricing model
+
+Customer segmentation analysis
+
+Driver performance analytics
+
+👨‍💻 Author
+
+SQL | Data Analytics | Business Intelligence
+Focused on solving real-world business problems using structured data.
